@@ -1,2 +1,2 @@
 # cpp-hour-library
-Libreria in cpp per rappresentare un'ora
+Programma in cpp per rappresentare un'ora
